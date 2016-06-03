@@ -20,7 +20,7 @@ const schedulesMorning = [
     [['09:10', '10:00']]
 ];
 
-test('meetingTimeFinder validation', t => {
+test('meetingTimeFinder', t => {
 
     test('validation', t => {
         t.throws(() => {
