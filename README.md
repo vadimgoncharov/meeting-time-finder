@@ -1,5 +1,6 @@
 # Meeting Time Finder
 
+![Node Version 6.x.x](https://img.shields.io/badge/node-6.x.x-brightgreen.svg)
 [![Build Status](https://img.shields.io/travis/vadimgoncharov/meeting-time-finder/master.svg)](https://travis-ci.org/vadimgoncharov/meeting-time-finder)
 [![Coverage Status](https://img.shields.io/coveralls/vadimgoncharov/meeting-time-finder/master.svg)](https://coveralls.io/r/vadimgoncharov/meeting-time-finder)
 
